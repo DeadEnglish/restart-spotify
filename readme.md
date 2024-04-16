@@ -4,5 +4,5 @@ There's a bug on Spotify for Windows, I have no idea what it is with spotify but
 Update line 8 in the batch script with your windows user
 
 ```bash
-start C:\Users\<USER_HERE>\AppData\Roaming\Spotify\Spotify.exe
+start C:\Users\USER_HERE\AppData\Roaming\Spotify\Spotify.exe
 ```
